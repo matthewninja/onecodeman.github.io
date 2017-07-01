@@ -1,0 +1,64 @@
+* {
+  font-family: 'Signika', sans-serif;
+  color: #555B6E;
+}
+
+body {
+  background-color: #FAF9F9;
+}
+
+#name-div {
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+}
+
+#name-title {
+  font-size: 80px;
+  letter-spacing: 3px;
+  cursor: default;
+}
+
+#ios {
+  color: #449DD1;
+}
+
+#mcmaster {
+  color: #B9314F;
+}
+
+#psychology {
+  color: #EDD382;
+}
+
+#status {
+  color: #00100B;
+}
+
+#status-description {
+  color: #DB3069;
+}
+
+#contact {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+#github-link > a {
+  color: #020202;
+}
+
+#medium-link > a {
+  color: #21D19F;
+}
+
+#tumblr-link > a {
+  color: #273469;
+}
